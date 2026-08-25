@@ -72,23 +72,24 @@ Python • Pandas • Matplotlib • Web Scraping
 </p>
 
 <p>
-Web scraping and exploratory data analysis project
-using Python to collect, clean and analyze data.
+Web scraping and exploratory data analysis project using Python
+to collect, clean and analyze data.
 </p>
 
 </td>
 
 <td width="50%">
 
-<h3>📱 Flutter Applications</h3>
+<h3>🔥 Arduino-Based Smoke Detector</h3>
 
 <p>
-Flutter • Dart • Firebase
+Arduino Uno • MQ-135 • LED • Buzzer
 </p>
 
 <p>
-Mobile application projects focused on building
-useful and user-friendly applications.
+Developed a low-cost smoke detection system using Arduino Uno
+and MQ-135 gas sensor with real-time alerts through LED and
+buzzer, achieving a response time under 2 seconds.
 </p>
 
 </td>
@@ -97,30 +98,31 @@ useful and user-friendly applications.
 <tr>
 <td width="50%">
 
-<h3>🤖 AI-Based Projects</h3>
+<h3>🤖 Hyperlocal AI Marketplace</h3>
 
 <p>
-Python • AI • Machine Learning
+Python • FastAPI • React Native • YOLOv8 • PostgreSQL • Firebase
 </p>
 
 <p>
-Exploring AI-based solutions for real-world
-problems and practical applications.
+AI-powered platform that detects household issues from images
+and connects users with nearby skilled workers. Includes
+AI-based job classification, real-time tracking and UPI payments.
 </p>
 
 </td>
 
 <td width="50%">
 
-<h3>🌐 Web Development</h3>
+<h3>💡 AI & IoT Solutions</h3>
 
 <p>
-Python • Django • REST API
+AI • IoT • Machine Learning
 </p>
 
 <p>
-Building backend services and full-stack
-applications using modern technologies.
+Exploring intelligent solutions that combine AI, IoT and
+software development to solve real-world problems.
 </p>
 
 </td>
@@ -144,15 +146,19 @@ applications using modern technologies.
 <tr>
 <td width="50%">
 
-<h3>📱 Mastering Flutter</h3>
-<p>Infosys Springboard</p>
+<h3>🤖 RPA Developer Foundation</h3>
+<p>
+UiPath • v2021.10
+</p>
 
 </td>
 
 <td width="50%">
 
-<h3>🤖 RPA Developer Foundation</h3>
-<p>UiPath</p>
+<h3>📱 Mastering Flutter</h3>
+<p>
+Infosys Springboard • February 13, 2025
+</p>
 
 </td>
 </tr>
@@ -160,15 +166,19 @@ applications using modern technologies.
 <tr>
 <td width="50%">
 
-<h3>🐍 C Programming</h3>
-<p>Programming Fundamentals</p>
+<h3>🧠 Introduction to Artificial Intelligence</h3>
+<p>
+Infosys Springboard • December 3, 2023
+</p>
 
 </td>
 
 <td width="50%">
 
-<h3>🧠 Introduction to AI</h3>
-<p>Artificial Intelligence Fundamentals</p>
+<h3>💻 C Programming</h3>
+<p>
+Infosys Springboard • May 19, 2024
+</p>
 
 </td>
 </tr>
@@ -177,14 +187,38 @@ applications using modern technologies.
 <td width="50%">
 
 <h3>📊 Statistics for R Programming</h3>
-<p>Data & Statistical Analysis</p>
+<p>
+Infosys Springboard • February 7, 2025
+</p>
 
 </td>
 
 <td width="50%">
 
-<h3>💻 Data Analytics</h3>
-<p>Python • Pandas • Data Visualization</p>
+<h3>☁️ Introduction to Soft Computing</h3>
+<p>
+NPTEL • IIT Kharagpur • March 2026 • Elite • 75%
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3>☁️ Introduction to Cloud Computing</h3>
+<p>
+Infosys Springboard • April 11, 2026
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3>☁️ Cloud Computing Fundamentals</h3>
+<p>
+Infosys Springboard • April 11, 2026
+</p>
 
 </td>
 </tr>
