@@ -1,46 +1,29 @@
 <div align="center">
 
-<br>
-
-<table>
-<tr>
-<td align="center" bgcolor="#06110B">
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=39FF88&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mohammed+Shihan+Basheer+%F0%9F%91%8B;Computer+Science+Engineering+Student+%F0%9F%92%BB;Data+Analytics+Enthusiast+%F0%9F%93%8A;Flutter+Developer+%F0%9F%93%B1;AI+%26+IoT+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:5b21b6,100:8b5cf6&height=220&section=header&text=Mohammed%20Shihan%20Basheer&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Analytics%20%7C%20Flutter%20%7C%20AI%20%26%20IoT&descAlignY=58&descSize=20" width="100%"/>
 
 <br>
 
-<h3>
-<span style="color:#39FF88;">
-📊 Data Analytics &nbsp; | &nbsp; 📱 Flutter Developer &nbsp; | &nbsp; 🤖 AI & IoT
-</span>
-</h3>
-
-<p>
-<em>Building practical solutions with code, data and technology.</em>
-</p>
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Data+Analytics+Enthusiast;Flutter+Developer;AI+%26+IoT+Explorer" alt="Typing SVG" />
 
 <br>
 
-<a href="https://github.com/shihanbasheer5">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=39FF88"/>
-</a>
+📊 **Data Analytics** &nbsp;|&nbsp; 📱 **Flutter Developer** &nbsp;|&nbsp; 🤖 **AI & IoT**
 
-<a href="https://www.linkedin.com/in/shihan-basheer-783149321">
-<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=39FF88"/>
-</a>
+<br>
 
-<a href="mailto:shihanbasheer5@gmail.com">
-<img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=39FF88"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/▲_PORTFOLIO-7C3AED?style=for-the-badge&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shihan-basheer-783149321)
+[![Email](https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shihanbasheer5@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shihanbasheer5)
 
-<br><br>
+<br>
 
-</td>
-</tr>
-</table>
+![Profile Views](https://komarev.com/ghpvc/?username=shihanbasheer5&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:1a0533&height=100&section=footer" width="100%"/>
 
 </div>
 
