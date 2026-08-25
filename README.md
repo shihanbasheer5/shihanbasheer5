@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:5b21b6,100:8b5cf6&height=220&section=header&text=Mohammed%20Shihan%20Basheer&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Analytics%20%7C%20Flutter%20%7C%20AI%20%26%20IoT&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0B3D24,100:1DB954&height=220&section=header&text=Mohammed%20Shihan%20Basheer&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Analytics%20%7C%20Flutter%20%7C%20AI%20and%20IoT&descAlignY=58&descSize=20" width="100%"/>
 
 <br>
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Data+Analytics+Enthusiast;Flutter+Developer;AI+%26+IoT+Explorer" alt="Typing SVG" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1DB954&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Data+Analytics+Enthusiast;Flutter+Developer;AI+and+IoT+Explorer" alt="Typing SVG" />
 
 <br>
 
@@ -12,18 +12,18 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/▲_PORTFOLIO-7C3AED?style=for-the-badge&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shihan-basheer-783149321)
-[![Email](https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shihanbasheer5@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shihanbasheer5)
+[![Portfolio](https://img.shields.io/badge/▲_PORTFOLIO-1DB954?style=for-the-badge&logoColor=white&labelColor=000000)](#)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1DB954?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/shihan-basheer-783149321)
+[![Email](https://img.shields.io/badge/EMAIL-1DB954?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:shihanbasheer5@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-1DB954?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/shihanbasheer5)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shihanbasheer5&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=shihanbasheer5&label=PROFILE+VIEWS&color=1DB954&style=for-the-badge)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:1a0533&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DB954,100:000000&height=100&section=footer" width="100%"/>
 
 </div>
 
