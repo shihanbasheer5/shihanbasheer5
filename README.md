@@ -12,14 +12,11 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/▲_PORTFOLIO-1DB954?style=for-the-badge&logoColor=white&labelColor=000000)](#)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-1DB954?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/shihan-basheer-783149321)
 [![Email](https://img.shields.io/badge/EMAIL-1DB954?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:shihanbasheer5@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-1DB954?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/shihanbasheer5)
 
 <br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=shihanbasheer5&label=PROFILE+VIEWS&color=1DB954&style=for-the-badge)
 
 <br>
 
