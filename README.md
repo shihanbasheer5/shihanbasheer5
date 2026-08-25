@@ -36,7 +36,7 @@ I enjoy turning raw data into meaningful insights and building
 practical applications that solve real-world problems.
 </p>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 
 <h3 align="center">💻 Languages & Querying</h3>
 
