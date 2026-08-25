@@ -4,7 +4,7 @@
 
 <br>
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1DB954&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Data+Analytics+Enthusiast;Flutter+Developer;AI+and+IoT+Explorer" alt="Typing SVG" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Data+Analytics+Enthusiast;Flutter+Developer;AI+and+IoT+Explorer" alt="Typing SVG" />
 
 <br>
 
