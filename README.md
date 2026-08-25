@@ -1,32 +1,46 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mohammed+Shihan+Basheer+%F0%9F%91%8B;Computer+Science+Engineering+Student+%F0%9F%92%BB;Data+Analytics+Enthusiast+%F0%9F%93%8A;Flutter+Developer+%F0%9F%93%B1;AI+%26+IoT+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
+<br>
+
+<table>
+<tr>
+<td align="center" bgcolor="#06110B">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=39FF88&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mohammed+Shihan+Basheer+%F0%9F%91%8B;Computer+Science+Engineering+Student+%F0%9F%92%BB;Data+Analytics+Enthusiast+%F0%9F%93%8A;Flutter+Developer+%F0%9F%93%B1;AI+%26+IoT+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
 
 <br>
 
-### 📊 Data Analytics | 📱 Flutter Developer | 🤖 AI & IoT Enthusiast
+<h3>
+<span style="color:#39FF88;">
+📊 Data Analytics &nbsp; | &nbsp; 📱 Flutter Developer &nbsp; | &nbsp; 🤖 AI & IoT
+</span>
+</h3>
 
 <p>
-Building practical solutions with code, data and technology.
+<em>Building practical solutions with code, data and technology.</em>
 </p>
 
 <br>
 
 <a href="https://github.com/shihanbasheer5">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=39FF88"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shihan-basheer-783149321">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=39FF88"/>
 </a>
 
 <a href="mailto:shihanbasheer5@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=39FF88"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=shihanbasheer5&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</td>
+</tr>
+</table>
 
 </div>
 
