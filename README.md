@@ -240,7 +240,7 @@ Infosys Springboard • April 11, 2026
 
 <h2>📬 Connect With Me</h2>
 
-<p>
+<p align="center">
 <a href="mailto:shihanbasheer5@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
