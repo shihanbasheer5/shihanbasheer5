@@ -1,14 +1,16 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohammed Shihan Basheer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mohammed+Shihan+Basheer+%F0%9F%91%8B;Computer+Science+Engineering+Student+%F0%9F%92%BB;Data+Analytics+Enthusiast+%F0%9F%93%8A;Flutter+Developer+%F0%9F%93%B1;AI+%26+IoT+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
 
-### Computer Science Engineering Student | Data Analytics | Flutter Developer
+<br>
 
-📍 India
+### 📊 Data Analytics | 📱 Flutter Developer | 🤖 AI & IoT Enthusiast
 
-</div>
+<p>
+Building practical solutions with code, data and technology.
+</p>
 
-<div align="center">
+<br>
 
 <a href="https://github.com/shihanbasheer5">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -21,6 +23,10 @@
 <a href="mailto:shihanbasheer5@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=shihanbasheer5&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
